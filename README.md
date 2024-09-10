@@ -1,4 +1,13 @@
-# Jetton-token-project
+# TON: How to develop fungible tokens (Jettons)
+
+For the full breakdown, see [TON: How to develop fungible tokens (Jettons)](https://docs.chainstack.com/docs/ton-how-to-develop-fungible-tokens-jettons).
+
+## References
+
+This project is inspired by and based on examples from the following repositories:
+
+- [TON Blockchain Token Contract](https://github.com/ton-blockchain/token-contract/tree/main)
+- [TON Blockchain Stablecoin Contract](https://github.com/ton-blockchain/stablecoin-contract)
 
 ## Project structure
 
